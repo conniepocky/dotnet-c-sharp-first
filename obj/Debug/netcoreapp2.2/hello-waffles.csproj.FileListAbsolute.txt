@@ -1,0 +1,11 @@
+/home/connie/Desktop/c#/hello-waffles/bin/Debug/netcoreapp2.2/hello-waffles.deps.json
+/home/connie/Desktop/c#/hello-waffles/bin/Debug/netcoreapp2.2/hello-waffles.runtimeconfig.json
+/home/connie/Desktop/c#/hello-waffles/bin/Debug/netcoreapp2.2/hello-waffles.runtimeconfig.dev.json
+/home/connie/Desktop/c#/hello-waffles/bin/Debug/netcoreapp2.2/hello-waffles.dll
+/home/connie/Desktop/c#/hello-waffles/bin/Debug/netcoreapp2.2/hello-waffles.pdb
+/home/connie/Desktop/c#/hello-waffles/obj/Debug/netcoreapp2.2/hello-waffles.csprojAssemblyReference.cache
+/home/connie/Desktop/c#/hello-waffles/obj/Debug/netcoreapp2.2/hello-waffles.csproj.CoreCompileInputs.cache
+/home/connie/Desktop/c#/hello-waffles/obj/Debug/netcoreapp2.2/hello-waffles.AssemblyInfoInputs.cache
+/home/connie/Desktop/c#/hello-waffles/obj/Debug/netcoreapp2.2/hello-waffles.AssemblyInfo.cs
+/home/connie/Desktop/c#/hello-waffles/obj/Debug/netcoreapp2.2/hello-waffles.dll
+/home/connie/Desktop/c#/hello-waffles/obj/Debug/netcoreapp2.2/hello-waffles.pdb
